@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background-color: #b8d7ff;
+  width: 60vh;
+  /* height: 100vh; */
+}
+.w-50 {
+  width: 50%;
+}
